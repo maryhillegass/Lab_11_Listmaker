@@ -80,4 +80,5 @@ public class ListMaker {
                 "\nP – Print (i.e. display) the list" +
                 "\nQ – Quit the program\n");
     }
+
 }
